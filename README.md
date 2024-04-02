@@ -59,7 +59,7 @@
 
 <!--icons and links-->
 <p align="center">
-  <a href="www.linkedin.com/in/sergio-nahin-trinidad" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>
+  <a href="https://www.linkedin.com/in/sergio-nahin-trinidad/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>
   <a href="mailto:sergiontr280@gmail.com" target="blank"><img align="center" src="https://github.com/SergioNahin/SergioNahin/assets/82070249/f7ee6861-da81-4f3c-ad8e-323c5b4e9f6a" alt="correo" height="50" width="50" /></a>
   <a href="https://github.com/SergioNahin/" target="blank"><img align="center" src="https://github.com/SergioNahin/SergioNahin/assets/82070249/c53c9bc0-e50c-4b7b-937e-0a5e17deafdden.png" alt="github" height="50" width="50" /></a>  
 </p>
