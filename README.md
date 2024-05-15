@@ -25,7 +25,7 @@
   
 - 💼 Currently, I'm focused on **Software Development and Web Applications, as well as Mobile App Development**.
 
-- 👯 I’m looking to **collaborate on Proyectos**
+- 👯 I’m looking to **collaborate on Proyect**
 
 - 📚 I'm learning **to integrate multiple technologies to build scalable and efficient applications**.
 
